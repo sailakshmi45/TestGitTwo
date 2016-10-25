@@ -2,5 +2,5 @@ menu_layout
 attendeeDetails
 SpeakerDetailsActivity
 
-
+Babudurgaprasad@gmail.com
 pwilliamson3123@artisteer.com	

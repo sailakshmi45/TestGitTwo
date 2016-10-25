@@ -1,0 +1,22 @@
+Push notification changes
+
+Lead push notification added two fields message,requestType
+message is used to send messages from leads list , at the time of send notification send this field as empty;
+requestType is used to differentiate we are using this service to send message or lead request , if we use for message then send
+requestType = "Message" for request then send requestType  = "Request".
+
+attconnectId field is added when you got notification for lead request.
+resend your attconnectId values in accept or reject in shareattend service
+requestType for differntiating in inserting also
+
+Attendee connect
+
+Notification_Type__c key added and value is Attendee Connect
+
+
+
+receiverGNUser for reply message
+
+
+
+attconnectId is added in lead accept or reject notification
