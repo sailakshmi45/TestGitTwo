@@ -1,0 +1,6 @@
+menu_layout
+attendeeDetails
+SpeakerDetailsActivity
+
+
+pwilliamson3123@artisteer.com	
