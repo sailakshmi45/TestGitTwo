@@ -1,5 +1,5 @@
 @Author babau
-Push notifffications changesss
+Push notifications changes
 
 Lead push notification added two fields message,requestType
 message is used to send messages from leads list , at the time of send notification send this field as empty;
@@ -17,7 +17,5 @@ Notification_Type__c key added and value is Attendee Connect
 
 
 receiverGNUser for reply message
-
-
 
 attconnectId is added in lead accept or reject notification
