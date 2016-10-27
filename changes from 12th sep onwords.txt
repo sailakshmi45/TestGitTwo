@@ -1,5 +1,9 @@
-babu prasad these are changes1 heremenu_layout2attendeeDetails
+babu prasad 
+these are changes1 here
+
+menu_layout2attendeeDetails
+
 SpeakerDetailsActivity
 
 
-pwilliamson3123@artisteer.com	
+pwilliamson3123@artisteer123.com	
