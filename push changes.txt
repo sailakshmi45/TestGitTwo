@@ -1,4 +1,4 @@
-@Author babau
+@Author D Babu durga prasad
 Push notifications changes
 
 Lead push notification added two fields message,requestType
@@ -16,6 +16,7 @@ Notification_Type__c key added and value is Attendee Connect
 
 
 
+yes this is change
 receiverGNUser for reply message
 
 attconnectId is added in lead accept or reject notification
