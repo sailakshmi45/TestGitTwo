@@ -1,7 +1,5 @@
-babu prasad these are changes here
-menu_layout
-attendeeDetails
+babu prasad these are changes1 heremenu_layout2attendeeDetails
 SpeakerDetailsActivity
 
-Babudurgaprasad@gmail.com
+
 pwilliamson3123@artisteer.com	
