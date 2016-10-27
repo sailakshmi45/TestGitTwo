@@ -1,4 +1,5 @@
-Push notification changes
+@Author babau
+Push notifications changes
 
 Lead push notification added two fields message,requestType
 message is used to send messages from leads list , at the time of send notification send this field as empty;
