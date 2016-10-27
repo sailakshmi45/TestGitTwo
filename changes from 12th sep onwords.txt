@@ -1,7 +1,7 @@
-these are changes here
-menu_layout
+these are changes1 here
+menu_layout2
 attendeeDetails
 SpeakerDetailsActivity
 
-Babudurgaprasad@gmail.com
+Babudurgaprasad@gmail.5com
 pwilliamson3123@artisteer.com	
